@@ -3,7 +3,7 @@
 ##Overview
 The Star Rating Plugin is a plugin for the jQuery Javascript library that creates a non-obstrusive star rating control based on a set of radio input boxes.
 
-The original source code for this was stored on <a href="https://code.google.com/archive/p/jquery-star-rating-plugin/">code.google.com. I created a fork on GitHub so that it could be used by SystemJS, etc.
+The original source code for this was stored on <a href="https://code.google.com/archive/p/jquery-star-rating-plugin/">code.google.com</a>. I created a fork on GitHub so that it could be used by SystemJS, etc.
 
 ---
  
