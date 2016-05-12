@@ -10,7 +10,6 @@ The original source code for this was stored on <a href="https://code.google.com
 ##Installation
 * Current version: 4.11
 * Release date: 2013-03-14
-* Download: <a href="http://jquery-star-rating-plugin.googlecode.com/svn/trunk/star-rating.zip"><strong>star-rating.zip</strong></a>
 
 ---
  
